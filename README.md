@@ -1,4 +1,9 @@
 SimpleGUI
 =========
 
-Simple GUI tmeplate in Tkinter 
+Simple GUI template in Tkinter 
+
+
+To open it:
+
+ `python src/MainApp.py`
