@@ -11,7 +11,7 @@ def main():
 
     # Build Gui and start it
     root = tk.Tk()
-    root.title('Aplicacion Principal')
+    root.title('Main Application')
 
     controller.init_view(root)
 
