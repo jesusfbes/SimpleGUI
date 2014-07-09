@@ -11,6 +11,6 @@ To open it:
 
 or 
 
- `./run 
+ `./run` 
 
 
