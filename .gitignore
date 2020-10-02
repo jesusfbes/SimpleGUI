@@ -1,4 +1,6 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files. 
+#this is a great project
+
 __pycache__/
 *.py[cod]
 
